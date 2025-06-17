@@ -57,6 +57,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/139944506?s=200&v=4" alt="LangChain" width="40" height="40" style="border-radius: 5px"/>
-  </a>
+  <img src="https://images.openai.com/thumbnails/url/BYMW8Hicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7KLXHLMjI3cEyJ1A0KMswIMcx2r_D39S_PKSgJcjPxNE6t8MsPCokycQks03UzMyjKD7WsSs0KqzBVKwYAqvwoiQ" alt="LangChain" width="40" height="40" />
+</a>
+
 </p>
